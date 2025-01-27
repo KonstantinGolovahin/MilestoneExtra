@@ -9,7 +9,7 @@ Compatible with majority of other modifications;
 Russian localisation.
 
 ## Installation
-This is a source code for the mod for editing in Unreal Engine editor, so please visit [https://ficsit.app/mod/MilestoneExtra] (Ficsit page) for installation via Satisfactory Mod Manager.
+This is a source code for the mod for editing in Unreal Engine editor, so please visit [https://ficsit.app/mod/MilestoneExtra](Ficsit page) for installation via Satisfactory Mod Manager.
 
 ## Feedback
-Feedback and issues please direct to  https://github.com/KonstantinGolovahin/MilestoneExtra/issues [https://github.com/KonstantinGolovahin/MilestoneExtra/issues](Github)
+Feedback and issues please direct to  [https://github.com/KonstantinGolovahin/MilestoneExtra/issues](Github page)
